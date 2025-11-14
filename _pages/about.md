@@ -21,7 +21,7 @@ I'm currently a computer science Ph.D. student at the Visual Computing Center [(
 
 I completed my master's degree under Professor [Peter Wonka](https://peterwonka.net/). I earned my bachelor's degree from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)).
 
-My research interests include scientific computing, visual computing, and physical simulation. 
+My research interests include physical simulation, scientific computing, and visual computing. 
 
 Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
